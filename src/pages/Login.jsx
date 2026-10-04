@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Eye, EyeOff } from "lucide-react";
 import { login } from "../services/api";
-import "../styles/Login.css";
+import "../styles/login.css";
 
 function Login({ onLogin }) {
   const [username, setUsername] = useState("");
