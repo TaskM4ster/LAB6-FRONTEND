@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Login from "./pages/login";
+import Login from "./pages/Login.jsx";
 import Products from "./pages/products";
 
 function App() {
